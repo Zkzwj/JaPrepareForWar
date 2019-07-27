@@ -1,11 +1,15 @@
 package com.zk.future.sort;
 
+import java.io.Serializable;
+
 /**
  * @Author: zking
  * @Date: 2019/7/13 21:21
- * @Content:冒泡排序
+ * @Content:冒泡排序，时间复杂度为：O(n^2)
  */
-public class MaoPaoSort {
+public class MaoPaoSort implements Serializable {
+
+    private static final long serialVersionUID = 5151012308184063970L;
 
     public static void main(String[] args) {
         int arr[] = {8,5,9,7,2};
@@ -31,7 +35,7 @@ public class MaoPaoSort {
     }
 
     /**
-     * 优化冒泡排序
+     * 优化冒泡排序:数组若是有序只遍历一遍就ok
      * @param arr
      * @return
      */
