@@ -28,7 +28,11 @@ public class Rob {
         rob(money);
     }
 
-
+    /**
+     * 规律总结，数学归纳
+     * 时间复杂度位 n  空间复杂度 1
+     * @param num
+     */
     private static void rob(int[] num){
         int prevMax = 0;
         int currntMax = 0;
