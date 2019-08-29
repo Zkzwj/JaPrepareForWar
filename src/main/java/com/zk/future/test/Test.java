@@ -1,7 +1,13 @@
 package com.zk.future.test;
 
-public class Test extends TestAbstract{
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
 
+public class Test extends TestAbstract{
+    static int co = 0;
+    int cc = 0;
     public static void main(String[] args) {
         // 1.数组中两个元素的和=target +3
         int[] arr = {1,2,3,4};
@@ -29,8 +35,73 @@ public class Test extends TestAbstract{
         // 12.删除链表多个值
 
         // 13.给定了100*1、50*1、20*2等一些钱的数额以及数量，给定金额，需要输出使用最少的数量的钱来凑成指定金额，如果不能凑出，则输出失败。
+        int count = 0;
+        for (int i = 0; i < 100; i++) {
+            if (i % 3 != 0 || i % 5 != 0) {
+                count++;
+            }
+        }
+        System.out.println(count);
+        f(10);
+        System.out.println(co);
+        System.out.println(Integer.MAX_VALUE);
 
 
+        int te = 128;
+        // 右移一位相当于2的幂指数-1
+        System.out.println(te >> 1);
+        // 右移2位相当于2的幂指数-2
+        System.out.println(te >> 2);
 
+        // 左移一位相当于2的幂指数+1
+        System.out.println(te << 1);
+
+        // 左移一位相当于2的幂指数+2
+        System.out.println(te << 2);
+
+        // & 运算 二进制为对比都为1 才为1
+        int st = 128;
+        int et = 129;
+        System.out.println(Integer.toBinaryString(st));
+        System.out.println(Integer.toBinaryString(et));
+        System.out.println(128 & 129);
+        int c = 0;
+        while (et != 0) {
+            c++;
+            et = (et - 1) & et;
+        }
+        System.out.println(c);
+
+
+        Test test = new Test();
+        System.out.println(test);
+        Map map = new HashMap();
+        map.hashCode();
+
+
+        int h = 10230492;
+        int len = 128;
+
+        System.out.println(h%len);
+        System.out.println(h&(len-1));
+
+        System.out.println(1 << 30);
     }
+
+    @Override
+    public int hashCode() {
+        int hash = 0;
+        hash = hash * 31 + cc;
+        return hash;
+    }
+
+    public static int f(int x) {
+        co++;
+        if (x <= 2) {
+            return 1;
+        }
+        return f(x - 2) + f(x - 4) + 1;
+    }
+
+
 }

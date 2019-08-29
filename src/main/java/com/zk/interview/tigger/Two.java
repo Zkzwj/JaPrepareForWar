@@ -2,6 +2,8 @@ package com.zk.interview.tigger;
 
 import java.util.HashSet;
 import java.util.Set;
+import java.util.concurrent.ThreadPoolExecutor;
+import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * @Author: zking
@@ -15,6 +17,8 @@ public class Two {
         for (String s : set) {
             System.out.println(s);
         }
+
+        AtomicInteger atomicInteger = new  AtomicInteger();
     }
 
     public static Set<String> permutations(String str) {
@@ -35,6 +39,8 @@ public class Two {
         }
         return result;
     }
+
+
 
     private static String EverythingElse(String str, int IndexToIngore) {
         StringBuilder result = new StringBuilder();
