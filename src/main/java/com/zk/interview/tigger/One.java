@@ -8,7 +8,22 @@ package com.zk.interview.tigger;
  */
 public class One {
 
-    public ListNode mergeKLists(ListNode[] lists) {
+    public static void main(String[] args) {
+        ListNode listNode = new ListNode(0);
+        ListNode listNode1 = new ListNode(20);
+        for (int i=1; i<10; i++){
+            listNode.add(i);
+        }
+        for (int i=19; i>10; i--){
+            listNode1.add(i);
+        }
+        ListNode[] lists = {listNode, listNode1};
+        ListNode listNode2 = mergeKLists(lists);
+        System.out.println(listNode2);
+
+    }
+
+    public static ListNode mergeKLists(ListNode[] lists) {
         ListNode res = new ListNode(0);  //设置结果
         if (lists == null || lists.length < 0) {
             return null;
@@ -25,7 +40,7 @@ public class One {
         return res;
     }
 
-    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+    public static ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode res = new ListNode(0);
         ListNode tmp = res;
 
@@ -48,14 +63,31 @@ public class One {
         return res.next;
     }
 
+
     public static class ListNode {
         int val;
-        ListNode next;
+        ListNode next = null;
 
         ListNode(int val) {
             this.val = val;
         }
 
+        public void add(int newData) {
+            ListNode newNode = new ListNode(newData);
+            if (this.next == null){
+                this.next = newNode;
+            }else {
+                this.next.add(newData);
+            }
+        }
+
+        @Override
+        public String toString() {
+            return "ListNode{" +
+                    "val=" + val +
+                    ", next=" + next +
+                    '}';
+        }
     }
 
 }

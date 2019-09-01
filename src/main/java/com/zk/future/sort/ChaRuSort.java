@@ -9,7 +9,7 @@ public class ChaRuSort {
 
     public static void main(String[] args) {
         int arr[] = {8,5,9,7,2};
-        int[] sort = a(arr);
+        int[] sort = sort1(arr);
         for (int i = 0; i < sort.length; i++){
             System.out.print(sort[i]+" ");
         }
@@ -39,20 +39,20 @@ public class ChaRuSort {
         return arr;
     }
 
-   public static int[] a(int a[]){
-        int len = a.length;
-        for (int i = 1; i<len;i++){
-            int value = a[i];
+   public static int[] sort1(int[] arr){
+        int len = arr.length;
+        for (int i = 1; i < len;i++){
+            int value = arr[i];
             int j = 0;
-            for (j = i-1; j>=0;j--){
-                if (a[j] <value){
-                    a[j+1] =a[j];
+            for (j = i - 1; j >= 0; j--){
+                if (arr[j] < value){
+                    arr[j+1] = arr[j];
                 }else {
                     break;
                 }
             }
-            a[j+1] = value;
+            arr[j+1] = value;
         }
-        return a;
+        return arr;
    }
 }
