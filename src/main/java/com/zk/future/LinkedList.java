@@ -186,7 +186,6 @@ public class LinkedList {
             for (int i = 0; i < len2 - len1; i++)
                 h2 = h2.next;
         }
-
         while (h1 != null) {
             if (h1 == h2)
                 return h1;

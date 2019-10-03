@@ -11,7 +11,6 @@ import java.util.Queue;
  * @Content:
  */
 public class ErChaTreeDepth {
-
     public static void levelOrder(TreeNode root) {
         if (root == null) {
             System.out.println(0);
@@ -25,7 +24,6 @@ public class ErChaTreeDepth {
             while (count > 0) {
                 TreeNode temp = q.peek();//peek() 用于在队列的头部查询元素
                 q.poll();//删除队列中的第一个元素
-                //list.add(temp.val);
                 if (temp.left != null) {
                     q.add(temp.left);
                 }
@@ -37,8 +35,6 @@ public class ErChaTreeDepth {
         }
         System.out.println(len);
     }
-
-
     public static int  getMaxDepth(TreeNode root){
         if (root == null){
             System.out.println(0);

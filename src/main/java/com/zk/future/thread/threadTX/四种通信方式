@@ -1,0 +1,5 @@
+线程通信常用的方式有:https://www.cnblogs.com/linyufeng/p/9671844.html
+①：wait/notify 等待
+②：Volatile 内存共享
+③：CountDownLatch 并发工具
+④：CyclicBarrier 并发工具

@@ -1,57 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cb83fb1-2c59-46d9-9f47-3d8a15513356" name="Default Changelist" comment="剑指offer，And Test">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/fight/other/Tes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/LevelOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/LevelPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/ListNode/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/ListNode/MergeListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/ListNode/RandomNumListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/ListNode/ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/ListNode/huiwenListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ReConstructBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/ready/yuanfudao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/sort/KuaiSuPaiXu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/sort/find/ErFenChaZhao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/test/S.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/test/ThreadPrintTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/thread/ThreadLocalExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/tree/TreeMostDeepPaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/tree/wanquanerchashu/BinTreeByArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/tree/wanquanerchashu/CountTreeDeepAndNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/tree/wanquanerchashu/TestTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/sina/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/sina/One.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/CountTreeDeepAndNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/CreateBSTfromSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ErChaShuZuiDaKuanDu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ErChaTreeDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/HuanXingLianBiaoRuKouDian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/IsPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/LinkedQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/MySqrt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/QuChong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ShuZuShiXianLiangGeZhan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/SortOfStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ZhiZiPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ZiFuQuanPai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ZuiChangLianXuDiZengXuLie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/huiXingPrintMatrix.java" afterDir="false" />
+    <list default="true" id="2cb83fb1-2c59-46d9-9f47-3d8a15513356" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/fight/pattern/easyFacotry/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/fight/pattern/easyFacotry/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/fight/pattern/easyFacotry/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/fight/pattern/easyFacotry/FruitFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/fight/pattern/easyFacotry/Grape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/fight/pattern/easyFacotry/Strawberry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/fight/stu/JieCheng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/ListNode/LianBiaoJiOuChaiFen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/ListNode/ShanChuLianBiaoChongFuJieDian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/BuShiYongYunSuanFuShiXianJiaFa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ChaoGuoYiBan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/DaYinDuiJiaoJuZhen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/DaYinShunShiZhenJuZhen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ErChaShuLuJingHe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ErChaShuShenDu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ErChaSouSuoShuHouXuBianLi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ErChaSouSuoShuYuLianBiao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ErChaSouSuoShuYuLianBiao1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ErWeiShuZuChaZhao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/FanZhuanDanCi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/FanZhuanLianBiao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/FuZaLianBiao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/HeBingLiangGeLianBiao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/HeWeiSDeLianXuZhengShuXuLie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/HeWeiSDeZhengShuXuLie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/JingXiangErChaShu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/LIanBiaoDaoShuKGeZhi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/LianBiaoYouHuan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/LianGeLianBiaoDiYiGeGongGongJieDian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/NiXu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/PinJieShuZiZuiXiao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/PuKePaiShunXu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ShanChuLianBiaoChongFuJieDian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ShangDaoXiaDaYinErChaShu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ShiFouShiPingHengErChaShu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ShuZiZaiShuZuZhongChuXianDeCiShu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ShuZuJiOuPaiXu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ShuZuZhongZhiChuXianYiCiDeShuZi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/StackImplQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/TailToHeadPrintListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/TiaoTaiJie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/XuanZhuanShuZuZuiXiaoZhi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ZhanYaRuHeTanChuXuLie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ZhiChuXianYiCiDeZiFu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ZiFuChuanQuanPaiLie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ZiFuChuanZhuanZhengShu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ZiShuWenTi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ZuiDaShuZuZiHe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ZuiXiaoKGeShu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ZuoXuanZhuanZiFuChuan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/accumulation/JuZhenDuiJiaoDaYin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/accumulation/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/accumulation/producerAndConsumer/ProducerAndConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/accumulation/producerAndConsumer/ProducerAndConsumer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/accumulation/producerAndConsumer/ProducerAndConsumer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/accumulation/reflect/SingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/accumulation/thread/ThreadLianXuDaYin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/accumulation/thread/TwoLockPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/accumulation/tips.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/leetcode/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/leetcode/listNode/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/leetcode/listNode/RemoveNthFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/sort/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/sort/QuickSort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/test/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/test/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/test/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/test/HeapExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/test/LianBiaoJianDanFuZhi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/test/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/test/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/test/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/test/RandomPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/test/ShuZuZuiDaLianXu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/test/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/test/Test12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/test/ttt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/thread/ThreadLianXuDaYin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/thread/TwoLockPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/thread/ch2/BadSuspend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/thread/ch2/DaemonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/thread/threadTX/CountDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/thread/threadTX/Volatile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/thread/threadTX/WaitAndNotify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/thread/threadTX/四种通信方式" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/tree/BinTreeByArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/tree/CreateBSTfromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/tree/ErChaTreeDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/TC58/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/TC58/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/TC58/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/ctrip/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/ctrip/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/didi/kongHao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/meituan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/meituan/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/others/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/qianxin/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/sougou/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/sougou/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/sougou/shuoming" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/tengxun/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/tengxun/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/tengxun/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/tengxun/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/tengxun/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/vivo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/vivo/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/vivo/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/weizhongBank/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/weizhongBank/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/weizhongBank/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/weizhongBank/problem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/xiaomi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/xiaomi/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/xindongfangzaixian/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yongyou/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yongyou/sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/WuXuShuZuGouJianErChaShu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/test/EqualsAndHashCode/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/test/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zk/test/TestMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/singleton/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/singleton/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/singleton/.idea/singleton.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/singleton/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/singleton/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/sort/ChaRuSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/sort/ChaRuSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/fight/proxyPattern/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/fight/pattern/jdkDynamicAgent/other/Actor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/fight/proxyPattern/Agent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/fight/pattern/jdkDynamicAgent/other/Agent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/fight/proxyPattern/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/fight/pattern/jdkDynamicAgent/other/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/fight/proxyPattern/StaticProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/fight/pattern/jdkDynamicAgent/other/StaticProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/fight/proxyPattern/jdkDynamicAgent/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/fight/pattern/jdkDynamicAgent/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/fight/proxyPattern/jdkDynamicAgent/DynamicAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/fight/pattern/jdkDynamicAgent/DynamicAgent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/fight/proxyPattern/jdkDynamicAgent/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/fight/pattern/jdkDynamicAgent/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/fight/proxyPattern/jdkDynamicAgent/ReflectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/fight/pattern/jdkDynamicAgent/ReflectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/LevelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/LevelOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/LevelPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/LevelPrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/ListNode/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/ListNode/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/ListNode/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/ListNode/ReverseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/ListNode/huiwenListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/ListNode/huiwenListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/FindKthToTail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/FindTwoArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/JumpFloor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/JumpFloorII.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/MergeLinkNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/MinNumberInRotateArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/NumberOf1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/Power.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ReConstructBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ReConstructBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ReOrderArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/RectCover.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ReverseList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/singleton/AgainCheckSingleThreadSingletonOptimization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/singleton/AgainCheckSingleThreadSingletonOptimization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/singleton/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/singleton/analysis.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/singleton/analysis.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/sort/find/ErFenChaZhao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/sort/find/ErFenChaZhao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/test/TestAbstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/test/TestAbstract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/test/ThreadPrintTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/test/ThreadPrintTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/thread/ThreadLocalExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/thread/ThreadLocalExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/tree/TreeMostDeepPaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/tree/TreeMostDeepPaths.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/tree/tset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/tree/tset.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/tree/wanquanerchashu/BinTreeByList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/tree/wanquanerchashu/BinTreeByList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/interview/tigger/One.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/tigger/One.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/interview/tigger/Two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/tigger/Two.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/tree/wanquanerchashu/BinTreeByArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/tree/wanquanerchashu/BinTreeByArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/future/tree/wanquanerchashu/CountTreeDeepAndNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/future/tree/wanquanerchashu/CountTreeDeepAndNodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/CountTreeDeepAndNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/CountTreeDeepAndNodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/CreateBSTfromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/CreateBSTfromSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ErChaShuZuiDaKuanDu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ErChaShuZuiDaKuanDu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ErChaTreeDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ErChaTreeDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/IsPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/IsPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ZhiZiPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ZhiZiPrint.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -78,118 +200,25 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JaPrepareForWar" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ShuZuShiXianLiangGeZhan.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/thread/BadSuspend.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="34" />
-              <folding>
-                <element signature="e#490#491#0" expanded="true" />
-                <element signature="e#518#519#0" expanded="true" />
-                <element signature="e#560#561#0" expanded="true" />
-                <element signature="e#601#602#0" expanded="true" />
-                <element signature="e#648#649#0" expanded="true" />
-                <element signature="e#681#682#0" expanded="true" />
-                <element signature="e#729#730#0" expanded="true" />
-                <element signature="e#775#776#0" expanded="true" />
-                <element signature="e#816#817#0" expanded="true" />
-                <element signature="e#851#852#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ErChaShuZuiDaKuanDu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/sort/ChaRuSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/sort/find/ErFenChaZhao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            <state relative-caret-position="529">
+              <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/sort/KuaiSuPaiXu.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/thread/ch2/DaemonDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-              <folding>
-                <element signature="e#422#423#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/sort/XuanZeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ErChaTreeDepth.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1564">
-              <caret line="71" column="21" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/LevelPrint.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1495">
-              <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/MySqrt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/huiXingPrintMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="-52">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -206,41 +235,47 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>againCheckSingleThreadSingletonOptimization</find>
-      <find>Thread</find>
-      <find>Thread(Ru</find>
-      <find>stop()</find>
-      <find>equal</find>
-      <find>sort</find>
-      <find>newProxyInstance</find>
-      <find>//</find>
-      <find>rese</find>
-      <find>ensureCapacity</find>
-      <find>ensureCapacityInternal</find>
-      <find>DEFAULTCAPACITY_EMPTY_ELEMENTDATA</find>
-      <find>add</find>
-      <find>hashCode</find>
-      <find>hash(</find>
-      <find>hashMap</find>
-      <find>hashMap(</find>
-      <find>tree</find>
-      <find />
-      <find>lists</find>
-      <find>add(ListNode</find>
       <find>0</find>
       <find>random(</find>
       <find>put</find>
       <find>v2</find>
       <find>add(</find>
-      <find>put(</find>
       <find>f</find>
       <find>res</find>
       <find>，</find>
+      <find>submit</find>
+      <find>allowCoreThreadTimeOut</find>
+      <find>equals(</find>
+      <find>equals</find>
+      <find>ThreadPoolExecutor(</find>
+      <find>pi</find>
+      <find>ni</find>
+      <find>k</find>
+      <find>8</find>
+      <find>Node&lt;K,V&gt;[] resize()</find>
+      <find>TREEIFY_THRESHOLD</find>
+      <find>resize(</find>
+      <find>put(</find>
+      <find>resize</find>
+      <find>list</find>
+      <find>numberOfMoney</find>
+      <find>,</find>
+      <find>matrix</find>
+      <find>evict</find>
+      <find>l1</find>
+      <find>l2</find>
+      <find>’</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>list[1]</replace>
+      <replace>ps</replace>
+      <replace>in</replace>
       <replace>,</replace>
+      <replace>m</replace>
+      <replace>list1</replace>
+      <replace>list2</replace>
+      <replace>'</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -251,57 +286,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/tree/wanquanerchashu/TestTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/tree/wanquanerchashu/BinTreeByList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/tree/wanquanerchashu/BinTreeByArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ReConstructBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/tree/wanquanerchashu/CountTreeDeepAndNodes.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/tigger/One.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/ListNode/MergeListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/ListNode/RandomNumListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/ListNode/huiwenListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/tree/TreeMostDeepPaths.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/tree/tset.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/ListNode/ReverseList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/ready/yuanfudao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/test/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/test/ThreadPrintTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/MySqrt.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/LinkedQueue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/CreateBSTfromSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/thread/ThreadLocalExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/test/S.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/QuChong.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/IsPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/sina/Two.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/sina/LRUCache.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/sina/One.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/fight/other/Tes.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/FindLengthOfLCIS.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/LevelOrder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/tigger/Two.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ZhiZiPrint.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ZiFuQuanPai.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/LinkedList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/ListNode/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ReverseList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/CountTreeDeepAndNodes.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/HuanXingLianBiaoRuKouDian.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/LinkedQueue2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/SortOfStack.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ZuiChangLianXuDiZengXuLie.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/HuiXingPrintMatrix1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/huiXingPrintMatrix.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/MySqrt.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ShuZuShiXianLiangGeZhan.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/LevelPrint.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ErChaTreeDepth.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ErChaShuZuiDaKuanDu.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/sort/ChaRuSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/sort/find/ErFenChaZhao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/sort/KuaiSuPaiXu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/test/HeapExam.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/test/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/test/B.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/test/C.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/test/A.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/test/Test11.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/HeWeiSDeZhengShuXuLie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/weizhongBank/Main21.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/weizhongBank/Main1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/weizhongBank/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/weizhongBank/problem" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/weizhongBank/Main2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/didi/kongHao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/thread/yyy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ChaoGuoYiBan.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/DaYinShunShiZhenJuZhen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/DaYinDuiJiaoJuZhen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ErChaShuShenDu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/FanZhuanDanCi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/FanZhuanLianBiao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/FuZaLianBiao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/tengxun/Main2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/tengxun/Main4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/tengxun/Main3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/tengxun/Main1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/tengxun/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/accumulation/producerAndConsumer/ProducerAndConsumer1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/accumulation/reflect/reflect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/accumulation/reflect/SingletonTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/test/Main2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/PuKePaiShunXu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/BuShiYongYunSuanFuShiXianJiaFa.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ZiFuChuanZhuanZhengShu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/xindongfangzaixian/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/test/RandomPassword.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ErChaShuLuJingHe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/test/Main3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/HeWeiSDeLianXuZhengShuXuLie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ShanChuLianBiaoChongFuJieDian.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ZuoXuanZhuanZiFuChuan.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ShuZuZhongZhiChuXianYiCiDeShuZi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/accumulation/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/yongyou/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/yongyou/sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/interview/others/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/test/ttt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/thread/ch2/DaemonDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/bitOperation/Bit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/accumulation/producerAndConsumer/ProducerAndConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/thread/ch2/BadSuspend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zk/future/accumulation/thread/ThreadLianXuDaYin.java" />
       </list>
     </option>
   </component>
@@ -335,8 +370,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1783" />
-    <option name="y" value="-8" />
+    <option name="x" value="170" />
+    <option name="y" value="91" />
     <option name="width" value="1026" />
     <option name="height" value="546" />
   </component>
@@ -398,7 +433,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="zk" type="462c0819:PsiDirectoryNode" />
               <item name="future" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JaPrepareForWar" type="b2602c69:ProjectViewProjectNode" />
@@ -408,37 +443,8 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="zk" type="462c0819:PsiDirectoryNode" />
               <item name="future" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JaPrepareForWar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JaPrepareForWar" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zk" type="462c0819:PsiDirectoryNode" />
-              <item name="future" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="wanquanerchashu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JaPrepareForWar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JaPrepareForWar" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zk" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JaPrepareForWar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JaPrepareForWar" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zk" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="yuanfudao" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="ch2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -452,27 +458,30 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/zk/future" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/zk/future/accumulation/thread" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\Stu-WorkPlace\IDEA_WorlPlace\JaPrepareForWar\src\main\java\com\zk\future\tree\wanquanerchashu" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.zk.interview.yuanfudao" />
-      <recent name="com.zk.future.thread" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Stu-WorkPlace\IDEA_WorlPlace\JaPrepareForWar\src\main\java\com\zk\future\accumulation\thread" />
       <recent name="G:\Stu-WorkPlace\IDEA_WorlPlace\JaPrepareForWar\src\main\java\com\zk\future" />
       <recent name="G:\Stu-WorkPlace\IDEA_WorlPlace\JaPrepareForWar\src\main\java\com\zk\future\tree\wanquanerchashu" />
       <recent name="G:\Stu-WorkPlace\IDEA_WorlPlace\JaPrepareForWar\src\main\java\com\zk\future\singleton" />
       <recent name="G:\Stu-WorkPlace\IDEA_WorlPlace\JaPrepareForWar\src\main\java\com\zk\future\redis" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zk.interview.weizhongBank" />
+      <recent name="com.zk.interview.yuanfudao" />
+      <recent name="com.zk.future.thread" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Stu-WorkPlace\IDEA_WorlPlace\JaPrepareForWar\src\main\java\com\zk\future\tree\wanquanerchashu" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -487,13 +496,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KuaiSuPaiXu">
-    <configuration name="ChaRuSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zk.future.sort.ChaRuSort" />
+  <component name="RunManager" selected="Application.ErChaShuLuJingHe">
+    <configuration name="BadSuspend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zk.future.thread.ch2.BadSuspend" />
       <module name="JaPrepareForWar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zk.future.sort.*" />
+          <option name="PATTERN" value="com.zk.future.thread.ch2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -501,12 +510,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ErChaShuZuiDaKuanDu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zk.interview.yuanfudao.ErChaShuZuiDaKuanDu" />
+    <configuration name="Bit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zk.future.bitOperation.Bit" />
       <module name="JaPrepareForWar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zk.interview.yuanfudao.*" />
+          <option name="PATTERN" value="com.zk.future.bitOperation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -514,12 +523,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ErChaTreeDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zk.interview.yuanfudao.ErChaTreeDepth" />
+    <configuration name="DaemonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zk.future.thread.ch2.DaemonDemo" />
       <module name="JaPrepareForWar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zk.interview.yuanfudao.*" />
+          <option name="PATTERN" value="com.zk.future.thread.ch2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -527,12 +536,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ErFenChaZhao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zk.future.sort.find.ErFenChaZhao" />
+    <configuration name="ErChaShuLuJingHe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zk.future.SwordFingerOffer.ErChaShuLuJingHe" />
       <module name="JaPrepareForWar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zk.future.sort.find.*" />
+          <option name="PATTERN" value="com.zk.future.SwordFingerOffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -540,12 +549,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KuaiSuPaiXu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zk.future.sort.KuaiSuPaiXu" />
+    <configuration name="ProducerAndConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zk.future.accumulation.producerAndConsumer.ProducerAndConsumer" />
       <module name="JaPrepareForWar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zk.future.sort.*" />
+          <option name="PATTERN" value="com.zk.future.accumulation.producerAndConsumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -555,11 +564,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.KuaiSuPaiXu" />
-        <item itemvalue="Application.ErFenChaZhao" />
-        <item itemvalue="Application.ChaRuSort" />
-        <item itemvalue="Application.ErChaShuZuiDaKuanDu" />
-        <item itemvalue="Application.ErChaTreeDepth" />
+        <item itemvalue="Application.ErChaShuLuJingHe" />
+        <item itemvalue="Application.BadSuspend" />
+        <item itemvalue="Application.ProducerAndConsumer" />
+        <item itemvalue="Application.Bit" />
+        <item itemvalue="Application.DaemonDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -613,7 +622,35 @@
       <workItem from="1567126015547" duration="23201000" />
       <workItem from="1567226687302" duration="21359000" />
       <workItem from="1567304583801" duration="24598000" />
-      <workItem from="1567336085150" duration="3477000" />
+      <workItem from="1567336085150" duration="10733000" />
+      <workItem from="1567383780571" duration="7742000" />
+      <workItem from="1567473587416" duration="66493000" />
+      <workItem from="1567737028539" duration="26740000" />
+      <workItem from="1567824169576" duration="655000" />
+      <workItem from="1568006827614" duration="595000" />
+      <workItem from="1568011811742" duration="7790000" />
+      <workItem from="1568027289049" duration="18298000" />
+      <workItem from="1568179262483" duration="57146000" />
+      <workItem from="1568439480661" duration="3550000" />
+      <workItem from="1568464765401" duration="21044000" />
+      <workItem from="1568555098100" duration="25473000" />
+      <workItem from="1568693899427" duration="10448000" />
+      <workItem from="1568716969367" duration="6274000" />
+      <workItem from="1568800437093" duration="607000" />
+      <workItem from="1568864083091" duration="25719000" />
+      <workItem from="1568975994723" duration="11270000" />
+      <workItem from="1569056741547" duration="13088000" />
+      <workItem from="1569217425137" duration="2876000" />
+      <workItem from="1569286512228" duration="4948000" />
+      <workItem from="1569305253483" duration="13729000" />
+      <workItem from="1569370969079" duration="4428000" />
+      <workItem from="1569483313391" duration="8755000" />
+      <workItem from="1569583086065" duration="1838000" />
+      <workItem from="1569659013505" duration="4224000" />
+      <workItem from="1569670041437" duration="2571000" />
+      <workItem from="1569721927281" duration="10831000" />
+      <workItem from="1570100179736" duration="583000" />
+      <workItem from="1570105325343" duration="1338000" />
     </task>
     <task id="LOCAL-00001" summary="git创建成功">
       <created>1559147793220</created>
@@ -713,7 +750,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567064495904</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="剑指offer，And Test">
+      <created>1567339889719</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1567339889720</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -722,30 +766,39 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="280930000" />
+    <option name="totallyTimeSpent" value="647239000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2616137" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49892008" visible="true" weight="0.2730711" />
+      <window_info id="Structure" order="1" sideWeight="0.5010799" side_tool="true" weight="0.28290468" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.5010799" side_tool="true" weight="0.28290468" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.10426009" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.24215247" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32847533" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.12219731" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.34641257" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295964" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.23045821" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.22869955" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.34590164" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32286996" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -760,24 +813,24 @@
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32980332" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3850227" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49892008" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.5010799" side_tool="true" weight="0.28290468" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.5010799" side_tool="true" weight="0.28290468" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.3327869" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.24215247" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32847533" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.15807174" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.34641257" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295964" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.23045821" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.22950819" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.34590164" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32286996" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -811,16 +864,100 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/HuanXingLianBiaoRuKouDian.java</url>
-          <line>30</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ShanChuLianBiaoChongFuJieDian.java</url>
+          <line>29</line>
           <properties />
-          <option name="timeStamp" value="17" />
+          <option name="timeStamp" value="142" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/HuanXingLianBiaoRuKouDian.java</url>
-          <line>33</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/zk/future/leetcode/listNode/AddTwoNumbers.java</url>
+          <line>24</line>
           <properties />
-          <option name="timeStamp" value="18" />
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zk/future/leetcode/listNode/RemoveNthFromEnd.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/FanZhuanDanCi.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/HeWeiSDeZhengShuXuLie.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zk/interview/weizhongBank/Main1.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zk/interview/didi/kongHao.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/HeWeiSDeLianXuZhengShuXuLie.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zk/future/accumulation/reflect/SingletonTest.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zk/future/accumulation/reflect/SingletonTest.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zk/future/accumulation/reflect/SingletonTest.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zk/future/accumulation/reflect/SingletonTest.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/HeWeiSDeLianXuZhengShuXuLie.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zk/future/thread/ch2/DaemonDemo.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zk/future/thread/ch2/DaemonDemo.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zk/future/thread/ch2/DaemonDemo.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="188" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -831,441 +968,378 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/test/ThreadPrintTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="42" column="35" lean-forward="true" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/DeadLockDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/ListNode/ReverseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="66" column="5" selection-start-line="40" selection-start-column="8" selection-end-line="66" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/kuaishou/jianshenfang.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="82" column="21" selection-start-line="82" selection-start-column="18" selection-end-line="82" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/MySqrt.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/text/SimpleDateFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="2243" column="18" selection-start-line="2243" selection-start-column="18" selection-end-line="2243" selection-end-column="18" />
-          <folding>
-            <element signature="e#90084#90085#0" expanded="true" />
-            <element signature="e#90114#90115#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/thread/ThreadLocalExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/test/S.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/ThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/sina/LRUCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#705#706#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar!/sun/misc/URLClassPath.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="395" selection-start-line="395" selection-end-line="395" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-295">
-          <caret line="232" column="23" lean-forward="true" selection-start-line="232" selection-start-column="23" selection-end-line="232" selection-end-column="23" />
-          <folding>
-            <element signature="e#7222#7223#0" expanded="true" />
-            <element signature="e#7296#7297#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/sina/One.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5244">
-          <caret line="256" column="34" selection-start-line="256" selection-start-column="34" selection-end-line="256" selection-end-column="34" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22517">
-          <caret line="1059" column="17" selection-start-line="1059" selection-start-column="17" selection-end-line="1059" selection-end-column="17" />
-          <folding>
-            <element signature="e#44347#44348#0" expanded="true" />
-            <element signature="e#44395#44396#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5934">
-          <caret line="303" column="32" selection-start-line="303" selection-start-column="32" selection-end-line="303" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/fight/other/Tes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12765">
-          <caret line="600" column="23" selection-start-line="600" selection-start-column="14" selection-end-line="600" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="634" column="16" selection-start-line="634" selection-start-column="16" selection-end-line="635" selection-end-column="22" />
-          <folding>
-            <element signature="e#24331#24332#0" expanded="true" />
-            <element signature="e#24396#24397#0" expanded="true" />
-            <element signature="e#66928#66929#0" expanded="true" />
-            <element signature="e#66985#66986#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="991" column="18" selection-start-line="991" selection-start-column="18" selection-end-line="991" selection-end-column="18" />
-          <folding>
-            <element signature="e#8248#8249#0" expanded="true" />
-            <element signature="e#8275#8276#0" expanded="true" />
-            <element signature="e#29442#29443#0" expanded="true" />
-            <element signature="e#29489#29490#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ZiFuQuanPai.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/tigger/Two.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yongyou/sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
-          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/LevelOrder.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yongyou/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="41" column="28" lean-forward="true" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#157#549#0" />
-          </folding>
+        <state relative-caret-position="460">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ZhiZiPrint.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ZuiXiaoKGeShu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="755">
-          <caret line="65" column="32" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="355">
+          <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/ListNode/ListNode.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ZuiDaShuZuZiHe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
-          <folding>
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/QuChong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="30" column="37" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ReverseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="75" column="16" lean-forward="true" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/tree/wanquanerchashu/BinTreeByArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-995">
+        <state relative-caret-position="-128">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/tree/wanquanerchashu/CountTreeDeepAndNodes.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ZiFuChuanQuanPaiLie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-247">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/CountTreeDeepAndNodes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1081">
-          <caret line="55" column="31" lean-forward="true" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/HuanXingLianBiaoRuKouDian.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/CreateBSTfromSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/LinkedQueue2.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/IsPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/HuiXingPrintMatrix1.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="124" column="18" lean-forward="true" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ZuiChangLianXuDiZengXuLie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="943">
-          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/SortOfStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/LinkedQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1403">
-          <caret line="65" column="34" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
+        <state relative-caret-position="286">
+          <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
           <folding>
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#754#762#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ShuZuShiXianLiangGeZhan.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ZhiChuXianYiCiDeZiFu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="34" />
-          <folding>
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#601#602#0" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
-            <element signature="e#729#730#0" expanded="true" />
-            <element signature="e#775#776#0" expanded="true" />
-            <element signature="e#816#817#0" expanded="true" />
-            <element signature="e#851#852#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="621">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ErChaTreeDepth.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ZhanYaRuHeTanChuXuLie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1564">
-          <caret line="71" column="21" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="447">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/LevelPrint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1495">
-          <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/MySqrt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/huiXingPrintMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/yuanfudao/ErChaShuZuiDaKuanDu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/sort/XuanZeSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/XuanZhuanShuZuZuiXiaoZhi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/sort/ChaRuSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/TiaoTaiJie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/TailToHeadPrintListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/StackImplQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ShuZuZhongZhiChuXianYiCiDeShuZi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-483">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ShuZuJiOuPaiXu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="39" column="50" selection-start-line="38" selection-start-column="8" selection-end-line="39" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ShuZiZaiShuZuZhongChuXianDeCiShu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="28" column="54" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ShiFouShiPingHengErChaShu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="32" />
+          <folding>
+            <element signature="e#906#907#0" expanded="true" />
+            <element signature="e#949#950#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ShangDaoXiaDaYinErChaShu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-345">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ShanChuLianBiaoChongFuJieDian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="54" column="4" lean-forward="true" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/PuKePaiShunXu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-197">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/interview/others/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#1024#1025#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/test/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/test/ttt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-460">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/accumulation/producerAndConsumer/ProducerAndConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="62" column="27" lean-forward="true" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/thread/threadTX/四种通信方式">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/thread/threadTX/CountDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-552">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/accumulation/thread/ThreadLianXuDaYin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/thread/ch2/BadSuspend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="15" />
+          <folding>
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/bitOperation/Bit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="94" column="43" selection-start-line="94" selection-start-column="43" selection-end-line="94" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/BuShiYongYunSuanFuShiXianJiaFa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ChaoGuoYiBan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-621">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/DaYinDuiJiaoJuZhen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
-          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/sort/find/ErFenChaZhao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/DaYinShunShiZhenJuZhen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        <state relative-caret-position="-138">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/sort/KuaiSuPaiXu.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ErChaShuLuJingHe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="-874">
+          <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ErChaShuShenDu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-509">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ErChaSouSuoShuHouXuBianLi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ErChaSouSuoShuYuLianBiao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/ErWeiShuZuChaZhao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="53" column="21" lean-forward="true" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/FanZhuanDanCi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/FanZhuanLianBiao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/HeBingLiangGeLianBiao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/HeWeiSDeLianXuZhengShuXuLie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
           <folding>
-            <element signature="e#422#423#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/HeWeiSDeZhengShuXuLie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="47" column="28" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/JingXiangErChaShu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/LianBiaoYouHuan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/LianGeLianBiaoDiYiGeGongGongJieDian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/MinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/NiXu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/SwordFingerOffer/PinJieShuZiZuiXiao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/thread/BadSuspend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zk/future/thread/ch2/DaemonDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
         </state>
       </provider>
     </entry>

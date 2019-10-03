@@ -1,0 +1,12 @@
+SELECT t2.code
+ ,t2.name
+ ,t1.amount
+FROM (
+ SELECT shop_id  ,sum(amount) AS amount ,row_number()
+ OVER (PARTITION BY shop_id ORDER BY amount DESC) AS rn
+ FROM m_orders aa
+ JOIN m_user bb ON aa.user_id = bb.id AND bb.name = '懒羊羊'
+group by shop_id
+) t1
+join m_shop t2 on t1.shop_id=t2.id
+where rn = 1

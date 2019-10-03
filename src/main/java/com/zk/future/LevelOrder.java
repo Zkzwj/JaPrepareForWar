@@ -42,7 +42,6 @@ public class LevelOrder {
 			while(count>0) {
 				TreeNode temp = q.peek();//peek() 用于在队列的头部查询元素
 				q.poll();//删除队列中的第一个元素
-				//list.add(temp.val);
 				sum+=temp.val;
 				if(temp.left !=null) {
 					q.add(temp.left);
@@ -52,7 +51,6 @@ public class LevelOrder {
 				}
 				count--;
 			}
-			//res.add(list);
 			System.out.println(sum);
 		}
 		return res;

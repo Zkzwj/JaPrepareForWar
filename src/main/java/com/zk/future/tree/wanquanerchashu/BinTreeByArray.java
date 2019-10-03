@@ -16,8 +16,7 @@ public class BinTreeByArray {
     /**
      * 先序遍历
      * 根节点 -> 遍历左子树 -> 遍历右子树
-     *
-     * @param nodeId
+     * nodeId 下标
      */
     public void preOrder(int nodeId) {
         if (nodeId <= numbers.length) {
@@ -30,8 +29,6 @@ public class BinTreeByArray {
     /**
      * 中序遍历
      * 左子树 -> 父节点 -> 右子树
-     *
-     * @param nodeId
      */
     public void inOrder(int nodeId) {
         if (nodeId <= numbers.length) {
@@ -40,11 +37,9 @@ public class BinTreeByArray {
             inOrder(nodeId * 2 + 1);
         }
     }
-
     /**
      * 后续遍历
      * 左子树 -> 右子树 -> 父节点
-     *
      * @param nodeId
      */
     public void postOrder(int nodeId) {
@@ -63,13 +58,13 @@ public class BinTreeByArray {
         System.out.println();
 
         BinTreeByArray tree = new BinTreeByArray(numbers);
-        System.out.print("先序遍历");
+        System.out.print("先序遍历：");
         tree.preOrder(1);
         System.out.println();
-        System.out.print("中序遍历");
+        System.out.print("中序遍历：");
         tree.inOrder(1);
         System.out.println();
-        System.out.print("后续遍历");
+        System.out.print("后续遍历：");
         tree.postOrder(1);
     }
 

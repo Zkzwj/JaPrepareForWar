@@ -44,9 +44,7 @@ public class ErChaShuZuiDaKuanDu {
     }
     // 在上一层遍历完成后，下一层的所有节点已经放到队列中，此时队列中的元素个数就是下一层的宽度
     public static int getMaxWidth(TreeNode root){
-        if (root == null){
-            return 0;
-        }
+        if (root == null) return 0;
         Queue<TreeNode> queue = new ArrayDeque<TreeNode>();
         int maxWitdth = 1; // 最大宽度
         queue.add(root);// 入队

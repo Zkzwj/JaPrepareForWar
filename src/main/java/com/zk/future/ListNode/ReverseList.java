@@ -10,7 +10,7 @@ public class ReverseList {
     public static void main(String[] args) {
 
         ListNode listNode = new ListNode(-1);
-        for (int i = 0; i < 8; i++) {
+        for (int i = 0; i < 3; i++) {
             listNode.add(i);
         }
         ListNode re = re(listNode);

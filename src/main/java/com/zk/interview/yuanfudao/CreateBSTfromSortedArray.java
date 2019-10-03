@@ -31,7 +31,10 @@ public class CreateBSTfromSortedArray {
         return createBSTHelp(nodes, 0, data.length - 1);
     }
 
-    //Recursion.Node[start...end],find its root.Then find left child and right child for the root.
+    /**
+     * 题目:给定一个排序数组，如何构造一个二叉排序树
+     * 递归
+     */
     public Node createBSTHelp(Node[] nodes, int start, int end) {
         if (start > end) {
             return null;

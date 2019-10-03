@@ -1,17 +1,18 @@
+/*
 package com.zk.future.tree.wanquanerchashu;
-
-import com.zk.future.SwordFingerOffer.ReConstructBinaryTree;
 
 import java.util.LinkedList;
 import java.util.List;
 
 import static com.zk.future.SwordFingerOffer.ReConstructBinaryTree.reConstructBinaryTree;
 
+*/
 /**
  * @Author: zking
  * @Date: 2019/8/29 16:36
  * @Content:
- */
+ *//*
+
 public class CountTreeDeepAndNodes {
 
 
@@ -24,7 +25,8 @@ public class CountTreeDeepAndNodes {
     }
 
 
-    /**
+    */
+/**
      * 完全二叉树的最大深度与节点个数，要利用完全二叉树的特性
      * 思路:
      * 1 找到完全二叉树的最左节点，也就是求左子树的深度
@@ -34,7 +36,8 @@ public class CountTreeDeepAndNodes {
      *
      * @param root
      * @return
-     */
+     *//*
+
     public static int count(ReConstructBinaryTree.TreeNode root) {
         if (root == null) {
             return 0;
@@ -46,7 +49,6 @@ public class CountTreeDeepAndNodes {
             ldepth++;
             cur = cur.left;
         }
-        System.out.println("深度："+(ldepth+1));
         cur = root.right;
         int rdepth = 0;
         while (cur != null) {
@@ -90,3 +92,4 @@ public class CountTreeDeepAndNodes {
 
 
 }
+*/

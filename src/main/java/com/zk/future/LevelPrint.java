@@ -8,12 +8,10 @@ import java.util.LinkedList;
 public class LevelPrint {
 
     public static ArrayList<ArrayList<Integer>> Print(TreeNode root) {
-
         ArrayList<ArrayList<Integer>> ret = new ArrayList<>();
         if (root == null) {
             return ret;
         }
-
         ArrayList<Integer> list = new ArrayList<>();
         LinkedList<TreeNode> queue = new LinkedList<>();
         queue.add(null);

@@ -7,6 +7,9 @@ package com.zk.future.test;
  */
 /* 静态导包 */
 
+import java.util.HashMap;
+import java.util.concurrent.ConcurrentHashMap;
+
 import static java.lang.System.out;
 
 /**
@@ -17,7 +20,6 @@ import static java.lang.System.out;
 public class ThreadPrintTest {
     // 创建变量
     volatile int i = 1;
-
     public static void main(String[] args) {
         // 创建该类的对象
         ThreadPrintTest obj = new ThreadPrintTest();

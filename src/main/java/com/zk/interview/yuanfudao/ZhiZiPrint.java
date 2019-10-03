@@ -31,13 +31,22 @@ public class ZhiZiPrint {
         n3.right = n7;
         n4.right = n8;
         System.out.println(print(n1));
+        ArrayList<ArrayList<Integer>> print = print(n1);
+        int size = print.size();
+        ArrayList<Integer> arrayList = print.get(0);
+        Integer integer = arrayList.get(0);
+        System.out.println();
+        ArrayList<Integer> arrayList1 = null;
+        for (int i = 0; i < size;i++){
+            arrayList1 = print.get(i);
+            System.out.println(arrayList1.get(0));
+        }
+
     }
 
     public static ArrayList<ArrayList<Integer>> print(TreeNode root) {
         ArrayList<ArrayList<Integer>> res = new ArrayList<>();
-        if (root == null) {
-            return res;
-        }
+        if (root == null)  return res;
         ArrayList<Integer> list = new ArrayList<>();
         LinkedList<TreeNode> ll = new LinkedList<>();
         ll.add(null);
@@ -47,16 +56,17 @@ public class ZhiZiPrint {
             TreeNode temp = ll.removeFirst();
             if (temp == null) {
                 Iterator<TreeNode> iter = null;
-                if (leftToRight){
+                iter = ll.iterator();
+               /* if (leftToRight){
                     iter = ll.iterator();
                 }else {
                     iter = ll.descendingIterator();
-                }
+                }*/
                 while(iter.hasNext()){
                     TreeNode node = iter.next();
                     list.add(node.val);
                 }
-                leftToRight = !leftToRight;
+                //leftToRight = !leftToRight;
                 res.add(new ArrayList<>(list));
                 list.clear();
                 ll.add(null);
