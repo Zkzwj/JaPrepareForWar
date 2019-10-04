@@ -1,6 +1,5 @@
 package com.zk.future.share;
 
-import org.junit.Test;
 
 import javax.xml.bind.JAXB;
 import javax.xml.bind.JAXBContext;
@@ -13,14 +12,12 @@ import java.io.File;
  * @Content:
  */
 public class JAXBTest {
-    @Test
     public void generateXML() {
         Person person = new Person("abc", "男", "北京", "朝阳区");
         File file = new File("E:\\person.xml");
         JAXB.marshal(person, file);
     }
 
-    @Test
     public void generateBean() {
         File file = new File("E:\\person.xml");
         Person person = JAXB.unmarshal(file, Person.class);
