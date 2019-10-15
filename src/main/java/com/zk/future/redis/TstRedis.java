@@ -10,8 +10,8 @@ import java.util.Set;
 public class TstRedis {
 
     public static void main(String[] args){
-        JedisShardInfo shardInfo = new JedisShardInfo("redis://59.110.234.251:6379/1");
-        //shardInfo.setPassword("");
+        JedisShardInfo shardInfo = new JedisShardInfo("redis://59.110.234.251:6379/0");
+        shardInfo.setPassword("2125");
         Jedis jedis = new Jedis(shardInfo);
         System.out.println("服务器正在运行："+jedis.ping());
         System.out.println("String Write:");

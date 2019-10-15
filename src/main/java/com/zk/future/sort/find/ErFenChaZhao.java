@@ -13,7 +13,7 @@ public class ErFenChaZhao {
         int len = arr.length;
         int low = 0;
         int high = len - 1;
-        for (int i = 0; i < len; i++){
+        while (low <=  high){
             int mid = (low + high)/2;
             if (target == arr[mid]){
                 System.out.println(true);

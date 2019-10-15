@@ -11,8 +11,6 @@ public class PuKePaiShunXu {
 
     public static void main(String[] args) {
         PuKePaiShunXu p = new PuKePaiShunXu();
-
-
     }
 
     public boolean isContinuous(int[] numbers) {

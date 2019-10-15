@@ -23,16 +23,16 @@ public class BadSuspend {
     }
 
 
-    public static class ChangeObjectThread extends Thread{
+    public static class ChangeObjectThread extends Thread {
 
-        public ChangeObjectThread(String name){
+        public ChangeObjectThread(String name) {
             super.setName(name);
         }
 
         @Override
         public void run() {
-            synchronized (u){
-                System.out.println("in "+getName());
+            synchronized (u) {
+                System.out.println("in " + getName());
                 Thread.currentThread().suspend();
             }
         }

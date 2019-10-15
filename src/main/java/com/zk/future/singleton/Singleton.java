@@ -15,5 +15,4 @@ public class Singleton {
 	public static Singleton getSingleton(){
 		return singleton;
 	}
-
 }

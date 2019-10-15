@@ -42,7 +42,7 @@ public class HeWeiSDeZhengShuXuLie {
                 return o1.get(2).compareTo(o2.get(2));
             }
         });
-        System.out.println(lists);
+        System.out.println(lists.size());
         ArrayList<Integer> res = new ArrayList<>();
         ArrayList<Integer> temp = lists.get(0);
         for (int i = 0; i < temp.size() - 1; i++) {
