@@ -18,7 +18,6 @@ public class StackImplQueue {
         }
         Integer pop = stack1.pop();
         System.out.println(pop);
-
     }
 
 

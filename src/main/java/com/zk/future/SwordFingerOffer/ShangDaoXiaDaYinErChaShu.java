@@ -36,9 +36,7 @@ public class ShangDaoXiaDaYinErChaShu {
 
     public static ArrayList<Integer> PrintFromTopToBottom(TreeNode root) {
         ArrayList<Integer> list = new ArrayList<>();
-        if (root == null){
-            return list;
-        }
+        if (root == null)  return list;
         LinkedList<TreeNode> l1 = new LinkedList<>();
         l1.add(null);
         l1.add(root);

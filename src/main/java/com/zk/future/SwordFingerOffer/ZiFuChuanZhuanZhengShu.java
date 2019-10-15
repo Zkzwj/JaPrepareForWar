@@ -11,7 +11,8 @@ public class ZiFuChuanZhuanZhengShu {
         ZiFuChuanZhuanZhengShu z = new ZiFuChuanZhuanZhengShu();
         String str = "123";
         int i = z.StrToInt(str);
-        System.out.println(i);
+        int i1 = z.StrToInt1(str);
+        System.out.println(i1);
     }
 
     public int StrToInt(String str) {
@@ -31,4 +32,16 @@ public class ZiFuChuanZhuanZhengShu {
         }
         return fuhao == 0 ? sum : sum * -1;
     }
+
+    public int StrToInt1(String str) {
+        int length = str.length();
+        int res = 0;
+        String[] split = str.split("");
+        for (int i = 0; i < length; i++) {
+            int temp = Integer.valueOf(split[i]);
+            res += temp * Math.pow(10, length - i - 1);
+        }
+        return res;
+    }
+
 }

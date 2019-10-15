@@ -16,15 +16,14 @@ public class ZhiChuXianYiCiDeZiFu {
 
     }
 
-
     private static int getAll(String str){
-        System.out.println('z'+1);
         int[] arr = new int['z'+1];
         for (int i = 0; i < str.length(); i++){
             arr[str.charAt(i)]++;
         }
         for (int i = 0; i < arr.length; i++){
             if (arr[str.charAt(i)] == 1){
+                System.out.println(str.charAt(i));
                 return i;
             }
         }
