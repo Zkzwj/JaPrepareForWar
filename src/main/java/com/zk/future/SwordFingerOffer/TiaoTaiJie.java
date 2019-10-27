@@ -11,11 +11,20 @@ public class TiaoTaiJie {
 
     }
 
-    private int jumpF(int target){
-        if (target == 1 || target == 0){
+    private int jumpF(int target) {
+        if (target == 1 || target == 0) {
             return 1;
-        }else {
-            return jumpF(target - 1) + jumpF(target -2);
+        } else {
+            return jumpF(target - 1) + jumpF(target - 2);
         }
+    }
+
+    private int jumpFII(int target) {
+        if (target <= 2) {
+            return target;
+        } else {
+            return jumpFII(target - 1) * 2;
+        }
+
     }
 }

@@ -20,9 +20,7 @@ public class QuickSort1 {
     private static void quickSort(int[] arr, int left, int right){
         if (left < right){
             int index = div(arr, left, right);
-
             quickSort(arr, left, index-1);
-
             quickSort(arr, index+1, right);
         }
     }
@@ -35,7 +33,6 @@ public class QuickSort1 {
                 right--;
             }
             arr[left] = arr[right];
-
             while (left < right && arr[left] >= base){
                 left++;
             }

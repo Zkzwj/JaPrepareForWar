@@ -10,9 +10,8 @@ public class ErFenChaZhao {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5, 6};
         int target = 5;
-        int len = arr.length;
         int low = 0;
-        int high = len - 1;
+        int high = arr.length - 1;
         while (low <=  high){
             int mid = (low + high)/2;
             if (target == arr[mid]){

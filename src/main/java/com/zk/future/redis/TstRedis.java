@@ -26,6 +26,7 @@ public class TstRedis {
     private static void writeString(Jedis jedis){
         jedis.set("name", "zking");
         jedis.set("pass", "2125");
+
         System.out.println("写入的键值对："+jedis.get("name"));
         System.out.println("写入的键值对："+jedis.get("pass"));
         //jedis.del("pass");
